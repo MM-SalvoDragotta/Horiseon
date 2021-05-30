@@ -70,16 +70,17 @@ footer {
 
 /* Class selector */
 
-/* Change colour of "seo" in "Horiseon" */
-
+/* Main font class */
 .main-font {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
 }
 
+/* Header & footer font class */
 .header-footer-font {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
 }
 
+/* Change colour of "seo" in "Horiseon" */
 .seo {
     color: #d9dcd6;
 }
@@ -94,6 +95,7 @@ footer {
     background-position: center;
 }
 
+/* Content Class */
 .content {
     width: 75%;
     display: inline-block;
@@ -112,6 +114,7 @@ footer {
     margin-left: 25px;
 }
 
+/* Left Section Class */
 .optimization-management-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,10 +123,12 @@ footer {
     color: #ffffff;
 }
 
+/* Image height Class */
 .img-height-200 {
     max-height: 200px;
 }
 
+/* Right Section Class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,13 +139,14 @@ footer {
     background-color: #2589bd;
 }
 
-.benefit {
+/* Right Section Image Class */
+.aside-img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Footer h2 Class */
 .h2-footer {
     font-size: 20px;
 }
-
