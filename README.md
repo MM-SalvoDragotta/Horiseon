@@ -1,4 +1,7 @@
-**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible. 
+## Refactoring
+
+**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible.
+
 
 ## User Story
 
@@ -23,3 +26,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+> **Note**: This layout is designed for desktop viewing.
+
+## The URL of the deployed application.
+
+The Application has been deployed to this address [Horiseon](https://mm-salvodragotta.github.io/Horiseon/).
